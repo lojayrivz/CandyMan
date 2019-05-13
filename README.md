@@ -1,2 +1,0 @@
-# CandyMan
-Created with CodeSandbox
